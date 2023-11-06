@@ -14,6 +14,7 @@ function onSpeak(e) {
     console.log(e)
     guess = e.results[0][0].transcript
     displayGuessOnScreen(guess)
+    checkIfGuessValueIsValid(guess)
 }
 
 function displayGuessOnScreen(guess) {
@@ -22,3 +23,5 @@ function displayGuessOnScreen(guess) {
         <span class="box">${guess}</span>
     `
 }
+
+recognition.addEventListener('end', () => recognition.start());

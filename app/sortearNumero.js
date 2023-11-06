@@ -1,5 +1,5 @@
 const minimumValue = 1;
-const maximumValue = 10;
+const maximumValue = 100;
 const secretNumber = generateRandomNumber();
 
 function generateRandomNumber () {
