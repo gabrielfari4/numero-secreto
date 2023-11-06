@@ -1,5 +1,5 @@
 
-# Fokus
+# Número Secreto
 
 Este projeto foi desenvolvido ao longos dos cursos de HTML, CSS e JavaScript da Alura como forma de prática e consolidação dos conhecimentos nessas tecnologias.
 
