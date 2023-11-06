@@ -5,7 +5,7 @@ Este projeto foi desenvolvido ao longos dos cursos de HTML, CSS e JavaScript da 
 
 O projeto consiste na implementação de um jogo no qual é preciso adivinhar o número secreto gerado aleatoriamente.
 
-A tela inicial mostra o objetivo do jogo - descobrir o número secreto = e qual a janela de acerto - por exemplo: número de 1 a 100.
+A tela inicial mostra o objetivo do jogo - descobrir o número secreto - e qual a janela de acerto - por exemplo: número de 1 a 100.
 
 Se a resposta não for um número, a tela exibe uma mensagem de que a resposta é inválida.
 
